@@ -1,3 +1,4 @@
+package com.searattled.exercises;
 
 public class ReverseString {
 	public static String reverseString(String s){

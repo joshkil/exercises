@@ -1,3 +1,4 @@
+package com.searattled.exercises;
 import java.util.*;
 
 public class ComputeFibonacci {

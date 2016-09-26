@@ -1,3 +1,4 @@
+package com.searattled.exercises;
 
 public class LongestPallendrome {
 	public static int findLongestPallendrome(String s){

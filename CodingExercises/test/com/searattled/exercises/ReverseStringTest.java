@@ -1,3 +1,4 @@
+package com.searattled.exercises;
 import static org.junit.Assert.*;
 
 import org.junit.Test;
